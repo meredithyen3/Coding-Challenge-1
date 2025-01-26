@@ -36,3 +36,9 @@ console.log(accountBalance);
 let customerName = "Harper";
 console.log(customerName);
 console.log("Welcome, Harper!");
+
+
+// Task 5: Access Control
+let isLoggedIn = false;
+console.log(false);
+console.log(true&&false);
