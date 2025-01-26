@@ -18,3 +18,15 @@ console.log(productPrice);
 
 var isAvailable = true;
 console.log(isAvailable);
+
+
+// Task 3: Financial Transactions
+let accountBalance = 500000;
+accountBalance += 2000;
+console.log(accountBalance);
+accountBalance -= 1000;
+console.log(accountBalance);
+accountBalance *= 3;
+console.log(accountBalance);
+accountBalance /= 2;
+console.log(accountBalance);
