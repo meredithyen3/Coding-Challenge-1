@@ -30,3 +30,9 @@ accountBalance *= 3;
 console.log(accountBalance);
 accountBalance /= 2;
 console.log(accountBalance);
+
+
+// Task 4: Customer Messaging
+let customerName = "Harper";
+console.log(customerName);
+console.log("Welcome, Harper!");
